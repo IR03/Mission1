@@ -1,0 +1,113 @@
+body{
+    margin:  10px;
+}
+h3{
+    height: 60px;
+    text-align:right;
+    margin-right: 100px;
+}
+h1{ 
+    font-family: 'Big Shoulders Inline Display', cursive;
+    height: 20px;
+    font-size: 70px;
+    font-weight: 700;  
+}
+p{
+    margin-top: 90px; 
+    margin-bottom: 50px;
+}
+#orange-color{
+    color: coral;
+}
+.paragraph-color{
+    color: gray;
+    font-size: 20px;
+    font-weight: 700; 
+    text-align: justify;
+}
+.button{
+   
+    text-decoration: none;                             
+    background: linear-gradient(45deg, lightSalmon,tomato);
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;                           
+}
+.top-part{
+    margin-left: 0px;
+}
+.division-2{
+    margin-left: 3%;
+    width: 45%;
+    float: left;
+}
+.division-2 img{
+    width: 100%;
+}
+section{
+    height: 600px;
+}
+.text-middle{
+    text-align: center;
+    padding-top: 90px;
+    
+}
+.division-3{
+    width: 27%;
+    float: left;
+    margin-top: 50px;
+    margin-left: 40px;
+    padding: 1% 1%;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+.division-3 img{
+    width: 100%;
+}
+.background{
+    background-color:lightsteelblue;
+    height: 800px;
+}
+.background-inquiry{
+    background-image: url(images/Group_33094_1.png);
+    margin-top: 60px;
+    width: 65%;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-size:cover;   
+}
+.text-inquiry{
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+    color: white;
+}
+.chat-button{
+    text-decoration: none;                             
+    background: linear-gradient(45deg, lightSalmon,tomato);
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700; 
+    float: right;
+    margin-top: 80px;
+    margin-right: 70px;
+}
+footer p{
+    text-align: center;
+}
+#stay{
+    color: lightslategray;
+}
+#mail{
+    color: black;
+    font-weight: 700;
+}
+.icon{
+    text-align: center;
+}
